@@ -29,3 +29,7 @@ File system -> Working Directory    -> Make Changes -> Save -> HardDisk
 1. initialize git repo
 2. to track the we need to add that file to git repo
 3. create a version
+
+if you modify file, you need to add it to git repo, 
+if you want to discard, use git restore filename
+discard the changes
