@@ -33,3 +33,5 @@ File system -> Working Directory    -> Make Changes -> Save -> HardDisk
 if you modify file, you need to add it to git repo, 
 if you want to discard, use git restore filename
 discard the changes
+
+18:34 11-06-2025
