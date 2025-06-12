@@ -1,2 +1,6 @@
 Giri Prasad P
 Chennai, India
+AWS
+Azure
+DevOps
+Git
